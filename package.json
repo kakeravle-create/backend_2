@@ -1,0 +1,12 @@
+{
+  "name": "aml-verify-backend",
+  "version": "1.0.0",
+  "description": "AML Verify Backend API",
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "mongodb": "^5.0.0"
+  }
+}
+ 
